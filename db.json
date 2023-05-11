@@ -15,5 +15,12 @@
       "name": "Bram",
       "age": 21
     }
+  ],
+  "countries": [
+    {
+      "code": "NL",
+      "name": "The Netherlands",
+      "residents": "18000000"
+    }
   ]
 }
